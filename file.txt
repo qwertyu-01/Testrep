@@ -15,3 +15,5 @@ change 6 in new in local - git diff --staged
 change 7 in new in local - not nnew
 
 change 8 in main in local
+
+change 9 in main in remote
